@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sanket Aba Adhav  
+# Hi 👋 I'm Sanket Adhav  
 🚀 **Data Engineer** | 🐍 Python | 🛢️ SQL | ☁️ AWS | ⚡ PySpark | 🧱 Databricks | ☕ Java  
 
 I build **scalable data pipelines**, perform **clean transformations**, and create **analytics-ready datasets** using modern Data Engineering tools.  
